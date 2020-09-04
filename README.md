@@ -1,7 +1,7 @@
 #README.
 1. The program requires Android Studio (preferably the latest version). It also runs best
  on a Pixel 3a XL, with an API edition of 27. However, other devices are also supported.
-2. The project must be run from the TradingSystem folder as the base folder.
+2. The project must be run from the TradingSystem-SchoolProject folder as the base folder.
 3. Currently, we do not allow changes in usernames, but we do offer password changing 
 functionality. 
 4. We had to put two instances of the String keys for the use cases in BundleActivity and in 
