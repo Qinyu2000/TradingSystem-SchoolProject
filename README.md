@@ -6,6 +6,7 @@ the project mainly focus on the application of clean architecture and design pat
 ## Setup
 * Download [Android Studio](https://developer.android.com/studio)
 * Set the device to Pixel 3a XL, with an API edition of 27 (It works best on it but other devices are also supported)
+* Git clone the link: [Trading System](https://github.com/Qinyu2000/TradingSystem-SchoolProject.git)
 * Open the project with TradingSystem-SchoolProject as the base folder
 * After Gradle is set up, click the run button
 
